@@ -13,3 +13,4 @@
 * [Search Algorithms](Search-Algorithms.ipynb)- a brief into to several search algorithms with examples.
 * [Useful Stuff](Useful-Stuff.ipynb)- a collection of useful data science tools used for feature engineering, data exploration, and more.
 * [Web Scraping](Web-Scraping.ipynb)- a brief into to web scraping- I collected several quotes from a website and saved them in a file.
+* [Genetic algorithm with passwords](Genetic_Algorithm_With_Passwords.ipynb)-
